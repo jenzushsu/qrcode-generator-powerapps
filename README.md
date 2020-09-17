@@ -9,7 +9,7 @@ You can refer to this medium article Generate QR Code programmatically using Azu
 ## Installation
 Refer to this [documentation](https://docs.microsoft.com/en-us/powerapps/maker/common-data-service/import-update-export-solutions) to import this solution to your PowerApps environment.
 
-You will need to deploy the Function App and update the HTTP GET Request URL link Power Automate.
+You will need to deploy the Function App and update the HTTP GET Request URL link in the flow.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
