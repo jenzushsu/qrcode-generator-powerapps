@@ -1,6 +1,6 @@
 # QR Code Generator Canvas app with PowerApps
 
-A Canvas app built using PowerApps to generate QR Code with a text input.
+A Canvas app built using [Microsoft PowerApps](https://docs.microsoft.com/en-us/powerapps/) to generate QR Code with a text input.
 
 This is developed as for a use case using PowerApps as the application layer to generate QR Code programmatically using Azure Functions for users within an organziation without the use of a public available QR Code generators for various reasons. Please refer to this repo [QR Code Generator using Azure Functions](https://github.com/jenzushsu/qrcode-generator-azure-functions) for Function App developed for this use case.
 
